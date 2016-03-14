@@ -1,0 +1,484 @@
+Client.py
+-----------------------------------------------------------------------------------------------
+
+Python 3.5.0 (v3.5.0:374f501f4567, Sep 13 2015, 02:27:37) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+Processed Stream: 127.0.0.1-61927 Header: 1
+
+Processed Stream: 127.0.0.1-61927 Header: 2
+
+Processed Stream: 127.0.0.1-61927 Header: 3
+
+Processed Stream: 127.0.0.1-61927 Header: 4
+
+Processed Stream: 127.0.0.1-61927 Header: 5
+
+Processed Stream: 127.0.0.1-61927 Header: 6
+
+Processed Stream: 127.0.0.1-61927 Header: 7
+
+Processed Stream: 127.0.0.1-61927 Header: 8
+
+Processed Stream: 127.0.0.1-61927 Header: 9
+
+Processed Stream: 127.0.0.1-61927 Header: 10
+
+Processed Stream: 127.0.0.1-61927 Header: 11
+
+Processed Stream: 127.0.0.1-61927 Header: 12
+
+Processed Stream: 127.0.0.1-61927 Header: 13
+
+Processed Stream: 127.0.0.1-61927 Header: 14
+
+Processed Stream: 127.0.0.1-61927 Header: 15
+
+Processed Stream: 127.0.0.1-61927 Header: 16
+
+Processed Stream: 127.0.0.1-61927 Header: 17
+
+Processed Stream: 127.0.0.1-61927 Header: 18
+
+Processed Stream: 127.0.0.1-61927 Header: 19
+
+Processed Stream: 127.0.0.1-61927 Header: 20
+
+Processed Stream: 127.0.0.1-61927 Header: 21
+
+Processed Stream: 127.0.0.1-61927 Header: 22
+
+Processed Stream: 127.0.0.1-61927 Header: 23
+
+Processed Stream: 127.0.0.1-61927 Header: 24
+
+Processed Stream: 127.0.0.1-61927 Header: 25
+
+Processed Stream: 127.0.0.1-61927 Header: 26
+
+Processed Stream: 127.0.0.1-61927 Header: 27
+
+Processed Stream: 127.0.0.1-61927 Header: 28
+
+Processed Stream: 127.0.0.1-61927 Header: 29
+
+Processed Stream: 127.0.0.1-61927 Header: 30
+
+Processed Stream: 127.0.0.1-61927 Header: 31
+
+Processed Stream: 127.0.0.1-61927 Header: 32
+
+Processed Stream: 127.0.0.1-61927 Header: 33
+
+Processed Stream: 127.0.0.1-61927 Header: 34
+
+Processed Stream: 127.0.0.1-61927 Header: 35
+
+Processed Stream: 127.0.0.1-61927 Header: 36
+
+Processed Stream: 127.0.0.1-61927 Header: 37
+
+Processed Stream: 127.0.0.1-61927 Header: 38
+
+Processed Stream: 127.0.0.1-61927 Header: 39
+
+Processed Stream: 127.0.0.1-61927 Header: 40
+
+Processed Stream: 127.0.0.1-61927 Header: 41
+
+Processed Stream: 127.0.0.1-61927 Header: 42
+
+Processed Stream: 127.0.0.1-61927 Header: 43
+
+Processed Stream: 127.0.0.1-61927 Header: 44
+
+Processed Stream: 127.0.0.1-61927 Header: 45
+
+Processed Stream: 127.0.0.1-61927 Header: 46
+
+Processed Stream: 127.0.0.1-61927 Header: 47
+
+Processed Stream: 127.0.0.1-61927 Header: 48
+
+Processed Stream: 127.0.0.1-61927 Header: 49
+
+Processed Stream: 127.0.0.1-61927 Header: 50
+
+Processed Stream: 127.0.0.1-61927 Header: 51
+
+Processed Stream: 127.0.0.1-61927 Header: 52
+
+Processed Stream: 127.0.0.1-61927 Header: 53
+
+Processed Stream: 127.0.0.1-61927 Header: 54
+
+Processed Stream: 127.0.0.1-61927 Header: 55
+
+Processed Stream: 127.0.0.1-61927 Header: 56
+
+Processed Stream: 127.0.0.1-61927 Header: 57
+
+Processed Stream: 127.0.0.1-61927 Header: 58
+
+Processed Stream: 127.0.0.1-61927 Header: 59
+
+Processed Stream: 127.0.0.1-61927 Header: 60
+
+Processed Stream: 127.0.0.1-61927 Header: 61
+
+Processed Stream: 127.0.0.1-61927 Header: 62
+
+Processed Stream: 127.0.0.1-61927 Header: 63
+
+Processed Stream: 127.0.0.1-61927 Header: 64
+
+Processed Stream: 127.0.0.1-61927 Header: 65
+
+Processed Stream: 127.0.0.1-61927 Header: 66
+
+Processed Stream: 127.0.0.1-61927 Header: 67
+
+Processed Stream: 127.0.0.1-61927 Header: 68
+
+Processed Stream: 127.0.0.1-61927 Header: 69
+
+Processed Stream: 127.0.0.1-61927 Header: 70
+
+Processed Stream: 127.0.0.1-61927 Header: 71
+
+Processed Stream: 127.0.0.1-61927 Header: 72
+
+Processed Stream: 127.0.0.1-61927 Header: 73
+
+Processed Stream: 127.0.0.1-61927 Header: 74
+
+Processed Stream: 127.0.0.1-61927 Header: 75
+
+Processed Stream: 127.0.0.1-61927 Header: 76
+
+Processed Stream: 127.0.0.1-61927 Header: 77
+
+Processed Stream: 127.0.0.1-61927 Header: 78
+
+Processed Stream: 127.0.0.1-61927 Header: 79
+
+Processed Stream: 127.0.0.1-61927 Header: 80
+
+Processed Stream: 127.0.0.1-61927 Header: 81
+
+Processed Stream: 127.0.0.1-61927 Header: 82
+
+Processed Stream: 127.0.0.1-61927 Header: 83
+
+Processed Stream: 127.0.0.1-61927 Header: 84
+
+Processed Stream: 127.0.0.1-61927 Header: 85
+
+Processed Stream: 127.0.0.1-61927 Header: 86
+
+Processed Stream: 127.0.0.1-61927 Header: 87
+
+Processed Stream: 127.0.0.1-61927 Header: 88
+
+Processed Stream: 127.0.0.1-61927 Header: 89
+
+Processed Stream: 127.0.0.1-61927 Header: 90
+
+Processed Stream: 127.0.0.1-61927 Header: 91
+
+Processed Stream: 127.0.0.1-61927 Header: 92
+
+Processed Stream: 127.0.0.1-61927 Header: 93
+
+Processed Stream: 127.0.0.1-61927 Header: 94
+
+Processed Stream: 127.0.0.1-61927 Header: 95
+
+Processed Stream: 127.0.0.1-61927 Header: 96
+
+Processed Stream: 127.0.0.1-61927 Header: 97
+
+Processed Stream: 127.0.0.1-61927 Header: 98
+
+Processed Stream: 127.0.0.1-61927 Header: 99
+
+Processed Stream: 127.0.0.1-61927 Header: 100
+
+Processed Stream: 127.0.0.1-61927 Header: 101
+
+Processed Stream: 127.0.0.1-61927 Header: 102
+
+Processed Stream: 127.0.0.1-61927 Header: 103
+
+Processed Stream: 127.0.0.1-61927 Header: 104
+
+Processed Stream: 127.0.0.1-61927 Header: 105
+
+Processed Stream: 127.0.0.1-61927 Header: 106
+
+Processed Stream: 127.0.0.1-61927 Header: 107
+
+Processed Stream: 127.0.0.1-61927 Header: 108
+
+Processed Stream: 127.0.0.1-61927 Header: 109
+
+Processed Stream: 127.0.0.1-61927 Header: 110
+
+Processed Stream: 127.0.0.1-61927 Header: 111
+
+Processed Stream: 127.0.0.1-61927 Header: 112
+
+Processed Stream: 127.0.0.1-61927 Header: 113
+
+Processed Stream: 127.0.0.1-61927 Header: 114
+
+Processed Stream: 127.0.0.1-61927 Header: 115
+
+Processed Stream: 127.0.0.1-61927 Header: 116
+
+Stream: 12700161927
+1 : odict_values([5, 0, 0, 3, 1]) :: odict_values([5, 0, 0, 3, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+2 : odict_values([0, 1, 0, 0, 0]) :: odict_values([0, 1, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+3 : odict_values([0, 0, 5, 0, 5]) :: odict_values([0, 0, 5, 0, 5]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+4 : odict_values([0, 0, 0, 2, 0]) :: odict_values([0, 0, 0, 2, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+5 : odict_values([4, 0, 3, 1, 0]) :: odict_values([4, 0, 3, 1, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+6 : odict_values([0, 1, 0, 0, 0]) :: odict_values([0, 1, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+7 : odict_values([2, 2, 4, 0, 0]) :: odict_values([2, 2, 4, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+8 : odict_values([0, 0, 0, 3, 0]) :: odict_values([0, 0, 0, 3, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+9 : odict_values([5, 2, 0, 0, 0]) :: odict_values([5, 2, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+10 : odict_values([0, 1, 0, 0, 0]) :: odict_values([0, 1, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+11 : odict_values([3, 5, 0, 0, 5]) :: odict_values([3, 5, 0, 0, 5]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+12 : odict_values([0, 0, 0, 0, 5]) :: odict_values([0, 0, 0, 0, 5]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+13 : odict_values([2, 0, 0, 2, 5]) :: odict_values([2, 0, 0, 2, 5]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+14 : odict_values([0, 0, 0, 5, 0]) :: odict_values([0, 0, 0, 5, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+15 : odict_values([0, 4, 0, 2, 0]) :: odict_values([0, 4, 0, 2, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+16 : odict_values([0, 0, 0, 0, 2]) :: odict_values([0, 0, 0, 0, 2]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+17 : odict_values([0, 4, 0, 4, 1]) :: odict_values([0, 4, 0, 4, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+18 : odict_values([0, 3, 0, 0, 0]) :: odict_values([0, 3, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+19 : odict_values([1, 5, 0, 0, 2]) :: odict_values([1, 5, 0, 0, 2]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+20 : odict_values([0, 0, 3, 0, 0]) :: odict_values([0, 0, 3, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+21 : odict_values([0, 0, 1, 0, 1]) :: odict_values([0, 0, 1, 0, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+22 : odict_values([0, 0, 3, 0, 0]) :: odict_values([0, 0, 3, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+23 : odict_values([1, 0, 0, 5, 1]) :: odict_values([1, 0, 0, 5, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+24 : odict_values([0, 0, 0, 0, 4]) :: odict_values([0, 0, 0, 0, 4]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+25 : odict_values([0, 0, 1, 5, 1]) :: odict_values([0, 0, 1, 5, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+26 : odict_values([3, 0, 0, 0, 0]) :: odict_values([3, 0, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+27 : odict_values([3, 0, 0, 2, 0]) :: odict_values([3, 0, 0, 2, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+28 : odict_values([0, 0, 0, 5, 0]) :: odict_values([0, 0, 0, 5, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+29 : odict_values([0, 2, 3, 0, 1]) :: odict_values([0, 2, 3, 0, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+30 : odict_values([0, 0, 0, 1, 0]) :: odict_values([0, 0, 0, 1, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+31 : odict_values([0, 4, 4, 2, 0]) :: odict_values([0, 4, 4, 2, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+32 : odict_values([2, 0, 0, 0, 0]) :: odict_values([2, 0, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+33 : odict_values([0, 5, 0, 5, 0]) :: odict_values([0, 5, 0, 5, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+34 : odict_values([0, 0, 0, 0, 2]) :: odict_values([0, 0, 0, 0, 2]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+35 : odict_values([4, 0, 1, 4, 0]) :: odict_values([4, 0, 1, 4, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+36 : odict_values([5, 0, 0, 0, 0]) :: odict_values([5, 0, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+37 : odict_values([2, 5, 3, 0, 0]) :: odict_values([2, 5, 3, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+38 : odict_values([0, 0, 3, 0, 0]) :: odict_values([0, 0, 3, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+39 : odict_values([0, 0, 2, 0, 3]) :: odict_values([0, 0, 2, 0, 3]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+40 : odict_values([0, 4, 0, 0, 0]) :: odict_values([0, 4, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+41 : odict_values([2, 5, 0, 0, 5]) :: odict_values([2, 5, 0, 0, 5]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+42 : odict_values([0, 0, 3, 0, 0]) :: odict_values([0, 0, 3, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+43 : odict_values([0, 3, 3, 0, 2]) :: odict_values([0, 3, 3, 0, 2]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+44 : odict_values([0, 4, 0, 0, 0]) :: odict_values([0, 4, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+45 : odict_values([0, 0, 4, 0, 5]) :: odict_values([0, 0, 4, 0, 5]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+46 : odict_values([0, 0, 0, 0, 1]) :: odict_values([0, 0, 0, 0, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+47 : odict_values([0, 1, 0, 3, 1]) :: odict_values([0, 1, 0, 3, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+48 : odict_values([0, 0, 0, 1, 0]) :: odict_values([0, 0, 0, 1, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+49 : odict_values([2, 1, 0, 0, 5]) :: odict_values([2, 1, 0, 0, 5]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+50 : odict_values([0, 0, 0, 2, 0]) :: odict_values([0, 0, 0, 2, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+51 : odict_values([0, 0, 3, 3, 0]) :: odict_values([0, 0, 3, 3, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+52 : odict_values([0, 0, 0, 5, 0]) :: odict_values([0, 0, 0, 5, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+53 : odict_values([2, 0, 0, 3, 3]) :: odict_values([2, 0, 0, 3, 3]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+54 : odict_values([5, 0, 0, 0, 0]) :: odict_values([5, 0, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+55 : odict_values([0, 3, 4, 1, 0]) :: odict_values([0, 3, 4, 1, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+56 : odict_values([0, 0, 0, 0, 5]) :: odict_values([0, 0, 0, 0, 5]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+57 : odict_values([0, 0, 3, 5, 0]) :: odict_values([0, 0, 3, 5, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+58 : odict_values([0, 0, 0, 4, 0]) :: odict_values([0, 0, 0, 4, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+59 : odict_values([1, 2, 0, 0, 1]) :: odict_values([1, 2, 0, 0, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+60 : odict_values([0, 0, 1, 0, 0]) :: odict_values([0, 0, 1, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+61 : odict_values([4, 1, 5, 0, 0]) :: odict_values([4, 1, 5, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+62 : odict_values([0, 0, 0, 5, 0]) :: odict_values([0, 0, 0, 5, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+63 : odict_values([0, 0, 2, 3, 0]) :: odict_values([0, 0, 2, 3, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+64 : odict_values([0, 2, 0, 0, 0]) :: odict_values([0, 2, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+65 : odict_values([0, 5, 5, 0, 3]) :: odict_values([0, 5, 5, 0, 3]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+66 : odict_values([0, 3, 0, 0, 0]) :: odict_values([0, 3, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+67 : odict_values([0, 5, 4, 5, 0]) :: odict_values([0, 5, 4, 5, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+68 : odict_values([0, 0, 1, 0, 0]) :: odict_values([0, 0, 1, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+69 : odict_values([0, 0, 3, 3, 0]) :: odict_values([0, 0, 3, 3, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+70 : odict_values([0, 0, 0, 0, 1]) :: odict_values([0, 0, 0, 0, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+71 : odict_values([0, 0, 3, 5, 3]) :: odict_values([0, 0, 3, 5, 3]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+72 : odict_values([0, 0, 0, 3, 0]) :: odict_values([0, 0, 0, 1, 0]) :: odict_values([0, 0, 0, 2, 0]) 
+Stream: 12700161927
+73 : odict_values([4, 0, 0, 5, 1]) :: odict_values([4, 0, 0, 0, 1]) :: odict_values([0, 0, 0, 5, 0]) 
+Stream: 12700161927
+74 : odict_values([0, 0, 5, 0, 0]) :: odict_values([0, 0, 5, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+75 : odict_values([0, 0, 5, 4, 0]) :: odict_values([0, 0, 5, 0, 0]) :: odict_values([0, 0, 0, 4, 0]) 
+Stream: 12700161927
+76 : odict_values([0, 0, 3, 0, 0]) :: odict_values([0, 0, 3, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+77 : odict_values([4, 0, 0, 1, 3]) :: odict_values([4, 0, 0, 0, 3]) :: odict_values([0, 0, 0, 1, 0]) 
+Stream: 12700161927
+78 : odict_values([0, 0, 0, 0, 2]) :: odict_values([0, 0, 0, 0, 2]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+79 : odict_values([4, 5, 0, 0, 1]) :: odict_values([4, 5, 0, 0, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+80 : odict_values([0, 4, 0, 0, 0]) :: odict_values([0, 4, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+81 : odict_values([0, 4, 0, 4, 0]) :: odict_values([0, 4, 0, 0, 0]) :: odict_values([0, 0, 0, 4, 0]) 
+Stream: 12700161927
+82 : odict_values([5, 0, 0, 0, 0]) :: odict_values([5, 0, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+83 : odict_values([0, 3, 0, 5, 2]) :: odict_values([0, 3, 0, 0, 2]) :: odict_values([0, 0, 0, 5, 0]) 
+Stream: 12700161927
+84 : odict_values([0, 0, 0, 0, 5]) :: odict_values([0, 0, 0, 0, 5]) :: odict_values([0, 0, 0, 0, 0]) 
+S
+tream: 12700161927
+85 : odict_values([0, 3, 0, 2, 4]) :: odict_values([0, 3, 0, 0, 4]) :: odict_values([0, 0, 0, 2, 0]) 
+Stream: 12700161927
+86 : odict_values([0, 0, 0, 0, 3]) :: odict_values([0, 0, 0, 0, 3]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+87 : odict_values([0, 5, 0, 5, 0]) :: odict_values([0, 5, 0, 0, 0]) :: odict_values([0, 0, 0, 5, 0]) 
+Stream: 12700161927
+88 : odict_values([2, 0, 0, 0, 0]) :: odict_values([2, 0, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+89 : odict_values([2, 0, 2, 0, 3]) :: odict_values([2, 0, 2, 0, 3]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+90 : odict_values([3, 0, 0, 0, 0]) :: odict_values([3, 0, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+91 : odict_values([2, 3, 0, 0, 1]) :: odict_values([2, 3, 0, 0, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+92 : odict_values([0, 1, 0, 0, 0]) :: odict_values([0, 1, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+93 : odict_values([0, 2, 0, 0, 5]) :: odict_values([0, 2, 0, 0, 5]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+94 : odict_values([0, 0, 4, 0, 0]) :: odict_values([0, 0, 4, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+95 : odict_values([2, 0, 1, 0, 2]) :: odict_values([2, 0, 1, 0, 2]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+96 : odict_values([4, 0, 0, 0, 0]) :: odict_values([4, 0, 0, 0, 0]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+97 : odict_values([5, 3, 0, 2, 0]) :: odict_values([5, 3, 0, 0, 0]) :: odict_values([0, 0, 0, 2, 0]) 
+Stream: 12700161927
+98 : odict_values([0, 0, 0, 0, 4]) :: odict_values([0, 0, 0, 0, 4]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+99 : odict_values([0, 3, 0, 0, 1]) :: odict_values([0, 3, 0, 0, 1]) :: odict_values([0, 0, 0, 0, 0]) 
+Stream: 12700161927
+100 : odict_values([5, 5, 5, 5, 5]) :: odict_values([5, 5, 0, 0, 5]) :: odict_values([0, 0, 5, 5, 0]) 
+Stream: 12700161927
+101 : odict_values([5, 5, 5, 5, 5]) :: odict_values([5, 5, 0, 0, 5]) :: odict_values([0, 0, 5, 5, 0]) 
+Stream: 12700161927
+102 : odict_values([5, 5, 5, 5, 5]) :: odict_values([5, 5, 0, 0, 5]) :: odict_values([0, 0, 5, 5, 0]) 
+Stream: 12700161927
+103 : odict_values([5, 5, 5, 5, 5]) :: odict_values([5, 5, 0, 0, 5]) :: odict_values([0, 0, 5, 5, 0]) 
+Stream: 12700161927
+104 : odict_values([5, 5, 5, 5, 5]) :: odict_values([5, 5, 0, 0, 5]) :: odict_values([0, 0, 5, 5, 0]) 
+Stream: 12700161927
+105 : odict_values([5, 5, 5, 5, 5]) :: odict_values([5, 5, 0, 0, 5]) :: odict_values([0, 0, 5, 5, 0]) 
+Stream: 12700161927
+106 : odict_values([5, 5, 5, 5, 5]) :: odict_values([5, 1, 0, 0, 5]) :: odict_values([0, 4, 5, 5, 0]) 
+Stream: 12700161927
+107 : odict_values([5, 5, 5, 5, 5]) :: odict_values([5, 0, 0, 0, 5]) :: odict_values([0, 5, 5, 5, 0]) 
+Stream: 12700161927
+108 : odict_values([5, 5, 5, 5, 5]) :: odict_values([5, 0, 0, 0, 5]) :: odict_values([0, 5, 5, 5, 0]) 
+Stream: 12700161927
+109 : odict_values([5, 5, 5, 5, 5]) :: odict_values([5, 0, 0, 0, 5]) :: odict_values([0, 5, 5, 5, 0]) 
+Stream: 12700161927
+110 : odict_values([5, 5, 5, 5, 5]) :: odict_values([5, 0, 0, 0, 5]) :: odict_values([0, 5, 5, 5, 0]) 
+Stream: 12700161927
+111 : odict_values([5, 5, 5, 5, 5]) :: odict_values([0, 0, 0, 0, 5]) :: odict_values([5, 5, 5, 5, 0]) 
+Stream: 12700161927
+112 : odict_values([5, 5, 5, 5, 5]) :: odict_values([0, 0, 0, 0, 5]) :: odict_values([5, 5, 5, 5, 0]) 
+Stream: 12700161927
+113 : odict_values([5, 5, 5, 5, 5]) :: odict_values([0, 0, 0, 0, 5]) :: odict_values([5, 5, 5, 5, 0]) 
+Stream: 12700161927
+114 : odict_values([5, 5, 5, 5, 5]) :: odict_values([0, 0, 0, 0, 5]) :: odict_values([5, 5, 5, 5, 0]) 
+Stream: 12700161927
+115 : odict_values([5, 5, 5, 5, 5]) :: odict_values([0, 0, 0, 0, 5]) :: odict_values([5, 5, 5, 5, 0]) 
+Stream: 12700161927
+116 : odict_values([5, 5, 5, 5, 5]) :: odict_values([0, 0, 0, 0, 5]) :: odict_values([5, 5, 5, 5, 0]) 
+Stream: 12700161927
+117 : odict_values([0, 0, 0, 0, 5]) :: odict_values([0, 0, 0, 0, 4]) :: odict_values([0, 0, 0, 0, 1]) 
+
+Processed Stream: 127.0.0.1-61927 Header: 117
+
+
+-----------------------------------------------------------------------------------------------------------
+Server.py:
+-----------------------------------------------------------------------------------------------------------
+# python.exe server.py
+Initializing inventory
+Starting inventory service to process orders
+Connection closed 12700161927
