@@ -78,7 +78,7 @@ def inv_handler(csock, caddr):
                         key = key.split("-")
                         stream_id = key[0]
                         hdr = key[1]
-                        out += "Stream: {}".format(stream_id)
+                        #out += "Stream: {}".format(stream_id)
                         order_out = OrderedDict()
                         allocated = OrderedDict()
                         bo_out = OrderedDict()
@@ -112,7 +112,7 @@ def inv_handler(csock, caddr):
                                 else:
                                     pass
                                 
-                        out += "\n{} : {} :: {} :: {} \n".format(hdr, order_out.values(), allocated.values(), bo_out.values())
+                        out += "\n{}-{} : {} :: {} :: {} \n".format(stream_id, hdr, list(order_out.values()), list(allocated.values()), list(bo_out.values()))
                     
                     resp = str(out).encode('utf-8') + b'\n'
                     csock.send(resp)
